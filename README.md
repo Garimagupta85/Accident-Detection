@@ -6,7 +6,11 @@ CCTV surveillance cameras are installed in the majority of roads,highways these 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+<h3>Procedure</h3>
+
+1) Run `create_dataset.py` for converting the video to images.
+2) Then run `main.py` to train the model.
+3) Finally, run `model.py` for testing your model.
 
 ### Code Requirements
 
