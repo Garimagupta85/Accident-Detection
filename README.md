@@ -12,8 +12,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 You can install Conda for python which resolves all the dependencies for machine learning.
 
-
-##### pip install requirements.txt
+```
+pip install requirements.txt
+```
 
 ```
 Give examples
